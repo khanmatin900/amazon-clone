@@ -118,6 +118,11 @@ span {
   cursor: pointer;
 }
 
+.nav-signin a {
+  text-decoration: none;
+  color: white;
+}
+
 /* Box-6*/
 
 .nav-cart i {
